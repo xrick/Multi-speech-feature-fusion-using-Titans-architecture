@@ -1,1 +1,28 @@
-The history of mispronunciation detection
+The history of mispronunciation detection researches
+
+Silke M Witt. 2012. Automatic error detection in pronunciation
+training: Where we are and where we
+need to go.
+
+Nancy F. Chen and Haizhou Li. 2016. Computerassisted
+pronunciation training: From pronunciation
+scoring towards spoken language learning.
+
+
+Long Zhang, Ziping Zhao, Chunmei Ma, Linlin Shan,
+Huazhi Sun, Lifen Jiang, Shiwen Deng, and Chang
+Gao. 2020. End-to-end automatic pronunciation error
+detection based on improved hybrid ctc/attention
+architecture.
+
+Edward Wilder Caro Anzola and Miguel Ángel Mendoza
+Moreno. 2023.Goodness of pronunciation algorithm
+in the speech analysis and assessment for detecting
+errors in acoustic phonetics: An exploratory
+review
+
+
+Lavanya Venkatasubramaniam, Vishal Sunder, and Eric
+Fosler-Lussier. 2023. End-to-end word-level disfluency
+detection and classification in children’s reading
+assessment.
